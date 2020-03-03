@@ -8,7 +8,7 @@
 
 ### About
 
-I'm a fullstack developer based in Jakarta, Indonesia. currently working as expert data analytics for corporate risk & integrity at Asia Pulp & Paper.My primarily technology skill set is data engineering on top of Python ecosystem. My secondary programming capabilities are with Javascript, React & Vue to build webs apps. In a past life I worked primarily with business intelligence tools, but now I typically use Python whenever I want to build a webs apps, API & data analytics solution.I love doing side project to expand my software development abilities on frontend, backend, devops and data scientist.
+I'm a fullstack developer based in Jakarta, Indonesia. currently working as expert data analytics for corporate risk & integrity at Asia Pulp & Paper. My primarily technology skill set is data engineering on top of Python ecosystem. My secondary programming capabilities are with Javascript, React & Vue to build webs apps. In a past life I worked primarily with business intelligence tools, but now I typically use Python whenever I want to build a webs apps, API & data analytics solution.I love doing side project to expand my software development abilities on frontend, backend, devops and data scientist.
                  
 
 ------
@@ -53,7 +53,7 @@ Main Projects:
 * ETL: Airflow, Luigi, SSIS, Talend      
 * Big Data: Spark, Hbase, Hive, Sqoop, Strom   
 * Data Viz: Maplotlib, Bokeh, Tableau, Qlik, PowerBI, Redash, Superset, ELK 
-* Devops: Linux, Nginx, Jenkins, Ansible, Docker, Kubernates, Sentry  
+* Dev Ops: Linux, Nginx, Jenkins, Ansible, Docker, Kubernates, Sentry  
 
 ------
 
