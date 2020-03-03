@@ -8,7 +8,7 @@
 
 ### About
 
-I'm a fullstack & data analytics based in Jakarta, Indonesia. Currently working as expert data analytics for corporate risk & integrity at Asia Pulp & Paper. My primarily technology skill set is data engineering on top of Python ecosystem. My secondary programming capabilities are with Javascript, React & Vue to build webs apps. In a past life I worked primarily with business intelligence tools, but now I typically use Python whenever I want to build a webs apps, API & data analytics solution.I love doing side project to expand my software development abilities on frontend, backend, devops and data scientist.
+I'm a fullstack & data analytics developer based in Jakarta, Indonesia. Currently working as expert data analytics for corporate risk & integrity at Asia Pulp & Paper. My primary technology skill set is data engineering on top of Python ecosystem. My secondary programming capabilities are with Javascript, React & Vue to build webs apps. In a past life I worked primarily with business intelligence tools, but now I typically use Python whenever I want to build a webs apps, API & data analytics solution. I love doing side project to expand my software development abilities on frontend, backend, dev-ops and data scientist.
                  
 
 ------
@@ -24,20 +24,35 @@ I'm a fullstack & data analytics based in Jakarta, Indonesia. Currently working 
 * Security Incident Report System. Year: 2019. Stack: Django, Vue, Postgres
 
 #### Kraftheinz Company (October 2015 – April 2018)
-> Senior Business Inteligence Analyst
+> Senior Business Intelligence Analyst
 * Main Projects:
-* Analytics Report across Finance, Sales, Distirbution and Production Department. Year: 2015-2018. Stack: PL SQL, SAP Business Object, Oracle DB, MSSQL, Power BI, SSAS, Tableau  
-* Demand & Supply Predictives Analytics. Year: 2017-2018. Stack: PL SQL, Oracle DB, JDA, MS Access
+* Analytics Report across Finance, Sales, Distribution and Production Department. Year: 2015-2018. Stack: PL SQL, SAP Business Object, Oracle DB, MSSQL, Power BI, SSAS, Tableau  
+* Demand & Supply Predictive Analytics. Year: 2017-2018. Stack: PL SQL, Oracle DB, JDA, MS Access
 
 
 #### Multipolar Technology (January 2013 – September 2015)
-> Business Inteligence Consultant
+> Business Intelligence Consultant
 * Main Projects:
-* Business Inteligence System at Harapan Kita Hospital. Year: 2013. Stack: Arcplan, MSSQL, SSIS
+* Business Intelligence System at Harapan Kita Hospital. Year: 2013. Stack: Arcplan, MSSQL, SSIS
 * Sales Reporting System at Takeda Indonesia. Year: 2014. Stack: MSSQL, SSIS, SSAS, SSRS 
 * SAS Migration at Bank Negara Indonesia. Year: 2015. Stack: SAS EG
 * Maintenance Reporting System at Bank Indonesia. Year: 2015. Stack: IBM Cognos, MSSQL
 * Vision Analytics for Banking Solutions at Multipolar Technology. Year: 2014-2018. Stack: IBM Cognos, Arcplan, MSSQL, SSIS, SSAS, SSRS
+
+
+-------
+
+### Educations 
+
+#### Satya Wacana Christian University
+> Bachelor of Computer Engineering
+* Grade: 3.52
+* Major: Software Engineering
+* Achievement: Best Student of Computer Engineering 2012/2013-III
+* Activities:
+  * Faculty Student Representative 2008/2009 and 2009/2010
+  * Faculty Student Executive 2010/2011
+  * Teaching Assistant: Database & Numerical Computation
 
 -------
 
@@ -56,7 +71,7 @@ I'm a fullstack & data analytics based in Jakarta, Indonesia. Currently working 
 
 ------
 
-### Footer 
+### Contact 
 
 Github: [https://github.com/trigunawan89](https://github.com/trigunawan89)  
 Linkedin: [https://linkedin.com/in/trigunawan](https://linkedin.com/in/trigunawan)
