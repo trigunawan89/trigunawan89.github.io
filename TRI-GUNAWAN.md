@@ -1,5 +1,5 @@
 # Tri Gunawan
-## Fullstack & Data Analytics
+## Fullstack Web Dev & Machine Learning
 
 > [tri.gunawan@live.com](tri.gunawan@live.com)  
 > (+62) 857-4367-5495
@@ -8,7 +8,7 @@
 
 ### About
 
-I'm a fullstack & data analytics developer based in Jakarta, Indonesia. Currently working as expert data analytics for corporate risk & integrity at Asia Pulp & Paper. My primary technology skill set is data engineering on top of Python ecosystem. My secondary programming capabilities are with Javascript, React & Vue to build webs apps. In a past life I worked primarily with business intelligence tools, but now I typically use Python whenever I want to build a webs apps, API & data analytics solution. I love doing side project to expand my software development abilities on frontend, backend, dev-ops and data scientist.
+I am an information technology enthusiast with more than 7 years experience around data analytics solutions. I also like developing fullstack web and cloud solutions for the last 2 years. Currently working as an expert data analytic for Corporate Risk & Integrity at Sinarmas Asia Pulp & Paper. My main expertise is data engineering on top of SQL & Python ecosystem. My secondary programming skills are using Javascript, React/Vue and Django/Flask Framework to build an API and web applications. In my previous experience I worked mainly with commercial business intelligence tools, but now I usually use open source technology as my foundation to develop data analysis, machine learning, web applications and APIs. I love doing side projects in my free time to expand my software development capabilities in web, frontend, backend, devops, APIs, big data and machine learning.
                  
 
 ------
